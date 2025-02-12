@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! 👋<br>I'm a Full-Stack Developer specializing in building web applications.<br><br>🛠 Tech Stack:<br>Front-end: Next.js<br>Back-end: Express.js<br><br>👨‍💻 Developer at FlouTech<br><br>*
+Hi there! 👋<br>I'm a Full-Stack Developer specializing in building web applications.<br><br>🛠 Tech Stack:<br>Front-end: Next.js<br>Back-end: Express.js<br><br>👨‍💻 Developer at FlouTech<br><br>
 
 
 ## 🌐 Socials:
