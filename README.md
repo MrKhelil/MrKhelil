@@ -1,51 +1,135 @@
-# 💫 About Me:
-Hi there! 👋<br>I'm a Full-Stack Developer specializing in building web applications.<br><br>🛠 Tech Stack:<br>Front-end: React.js , Next.js...<br>Back-end: Express.js...<br><br>👨‍💻 Developer at FlouTech<br><br>
-![](https://komarev.com/ghpvc/?odqin&style=for-the-badge)
+<h1 align="center">Hi 👋, I'm Odqin</h1>
+<h3 align="center">Full-Stack Engineer • Backend Architecture • Secure & Scalable Systems</h3>
 
-## 🌐 Socials:
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-</div>
-
-###
-
-# 💻 Tech Stack:
-<br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
-</div>
-
-###
-
-###
 ---
-[![](https://visitcount.itsvg.in/api?id=MrKhelil&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MrKhelil/MrKhelil/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MrKhelil/MrKhelil/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MrKhelil/MrKhelil/output/pacman-contribution-graph.svg">
-</picture>
+## 🚀 About Me
+
+I’m a **Full-Stack Engineer** focused on building **secure, scalable, and production-ready web systems**.
+
+My work goes beyond features — I design systems with:
+
+- 🔐 Security-first architecture
+- ⚡ Performance & scalability
+- 🧠 Clean backend architecture
+- ☁️ Cloud-ready deployments
+- 📈 Production reliability
+
+I enjoy solving **complex backend problems**, designing APIs, and building systems that scale under real-world constraints.
+
+---
+
+## 🧠 Engineering Focus
+
+- Backend Architecture & API Design
+- Authentication & Security Systems (JWT, OAuth2, Passkeys)
+- Distributed System Concepts
+- Performance Optimization
+- System Design & Scalability
+- Production Engineering
+
+---
+
+## 🏗️ Current Engineering Interests
+
+- Clean Architecture & Domain Driven Design (DDD)
+- Event-Driven Systems
+- Observability & Monitoring
+- Cloud-Native Applications
+- High-Performance Backend Systems
+
+---
+
+## ⚙️ Tech Stack
+
+### 🖥 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![NextJS](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge)
+
+### 🔧 Backend
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge)
+
+### 🔐 Security & Auth
+- JWT & Refresh Rotation
+- OAuth2 Flows
+- Passkeys / WebAuthn
+- RBAC & Permission Systems
+- Secure Cookies & HTTPS
+- Cryptographic Signing (RSA / HMAC)
+
+### 🗄 Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+
+- Schema Design
+- Query Optimization
+- Aggregation Pipelines
+- Indexing & Performance Tuning
+
+### ⚡ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=for-the-badge)
+
+- CI/CD Pipelines
+- Linux Environment
+- Production Deployment
+- Environment Management
+- Reverse Proxy Concepts (NGINX)
+
+---
+
+## 🧩 Engineering Principles
+
+- ✅ Stateless Architecture
+- ✅ Modular Design
+- ✅ Dependency Injection
+- ✅ API Versioning
+- ✅ Secure-by-Default Systems
+- ✅ Performance Awareness
+- ✅ Clean Code & Maintainability
+
+---
+
+## 📊 System Design Knowledge
+
+- REST API Design
+- Horizontal Scaling Concepts
+- Caching Strategies
+- Load Balancing Concepts
+- Event-Driven Architecture (learning)
+- Message Queues (conceptual)
+- Distributed System Tradeoffs
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=odqin&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/khelil-badreddine/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="https://www.instagram.com/odq.in/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"/>
+  </a>
+  <a href="mailto:rynbadreddine18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=odqin&style=for-the-badge" />
+</p>
