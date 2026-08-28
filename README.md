@@ -7,7 +7,7 @@
 
 I’m a **Full-Stack Engineer** focused on building **secure, scalable, and production-ready web systems**.
 
-My work goes beyond features — I design systems with:
+My work goes beyond features , I design systems with:
 
 - 🔐 Security-first architecture
 - ⚡ Performance & scalability
